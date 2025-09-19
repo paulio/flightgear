@@ -19,7 +19,7 @@ The Glass Instrument example demonstrates an approach to rendering aircraft pane
 
 * Data binding to FlightGear properties (e.g. `/engines/engine[0]/rpm`)
 * Value scaling / interpolation (see the included interpolation XML samples)
-* SVG element mapping (needles, tapes, textual readouts)
+* HTML element mapping (needles, tapes, textual readouts)
 * Update loop & animation smoothing
 
 Because the definition is declarative, you can compose new instruments by editing JSON and SVG assets—minimizing JavaScript changes.
